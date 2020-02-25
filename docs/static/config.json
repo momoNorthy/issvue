@@ -1,13 +1,13 @@
 {
     "blog": {
-        "title": "Issvue",
-        "welcome": "Welcome to issvue",
+        "title": "Cloud's Blog",
+        "welcome": "Welcom,.",
         "detail": "This is a client-side github-issue blog generator."
     },
     "repo": {
-        "user": "cogons",
-        "repo": "blog",
-        "read_only_token": "6c1f1612f103c435991969309947995904f4451c",
+        "user": "momonorthy",
+        "repo": "momonorthy.github.io",
+        "read_only_token": "db8dd3b94c584e3c5482eb46b3e614cd22ecff78",
         "authors":["cogons"]
     },
     "nav": [
@@ -21,7 +21,7 @@
         },
         {
             "name": "Star&Fork",
-            "url": "https://github.com/cogons/issvue"
+            "url": "https://github.com/momonorthy/issvue"
         }
     ],
     "pin":[5]
